@@ -1,7 +1,7 @@
 # AK-startup-webpage
 
 
-Welcome to **AK Robotics** — a futuristic, Enthiran-inspired startup landing page featuring:
+Welcome to **AK Robotics** — 
 
 - Interactive robot face with eyes that follow the mouse/finger.
 - Neon glowing design and typography inspired by director Shankar's style.
@@ -49,13 +49,8 @@ https://<yourusername>.github.io
 4. Explore the startup info sections below the robot face.
 
 ---
-
-## How to Deploy on GitHub Pages
-
-1. Create a public repository named `<yourusername>.github.io` on GitHub.  
-2. Upload all files including `index.html` to the repository root.  
-3. Push changes to the `main` branch.  
-4. Visit `https://akarv742006.github.io/AK-startup-webpage/` in your browser after a few minutes.
+##live site
+https://akarv742006.github.io/AK-startup-webpage/
 
 ---
 
