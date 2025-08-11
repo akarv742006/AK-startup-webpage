@@ -12,15 +12,6 @@ Welcome to **AK Robotics** —
 
 ---
 
-## Demo
-
-Check out the live demo hosted on GitHub Pages:  
-https://<yourusername>.github.io
-
-*(Replace `<yourusername>` with your GitHub username)*
-
----
-
 ## Features
 
 - **Interactive Robot Eyes:** Pupils smoothly track cursor or touch movements.
